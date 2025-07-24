@@ -15,7 +15,7 @@ Each project highlights a real-world process automation challenge and how it was
 
 ---
 
-### 🔹 [CTL10 – TA Insurance Automation](ctl10-ta-insurance/)
+### 🔹 [AUVRI – TA Insurance Automation](ctl10-ta-insurance/)
 
 [![TA Insurance Bot](/images/ctl10-ta-insurance.png)](ctl10-ta-insurance/)
 > Automates validation of TA insurance records from SharePoint and notifies responsible units. This solution ensures compliance and eliminates repetitive verification tasks.
@@ -62,8 +62,6 @@ Each project highlights a real-world process automation challenge and how it was
 ## 📫 Let's Connect
 
 Want to collaborate or learn more about any of the bots?  
-📧 [Email me](mailto:jess.soliven.rpa@gmail.com) | 🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | 🛠️ [GitHub](https://github.com/jess-soliven)
+📧 [Email me](mailto:jesstinesolivenl@gmail.com) | 🌐 [LinkedIn](https://linkedin.com/in/jesstinesoliven) | 🛠️ [GitHub](https://github.com/jess-soliven)
 
----
 
-> 🧩 *This site is built using [Jekyll](https://jekyllrb.com/) and hosted on GitHub Pages. All previews are for educational and demonstration purposes only.*
