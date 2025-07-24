@@ -1,7 +1,3 @@
-Thanks, Jesstine! Based on the content of the **“RPA CTL10 Demo to HH.pptx”** presentation, here’s a revised version of your README that aligns with the actual scope, flow, and benefits of the CTL10 TA Insurance Automation bot:
-
----
-
 # 🤖 CTL10 – TA Insurance Premium Automation
 
 ## 📌 Project Overview
