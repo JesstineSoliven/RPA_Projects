@@ -1,4 +1,4 @@
-# 🤖 CTL10 – TA Insurance Premium Automation
+# 🤖 AUVRI – TA Insurance Premium Automation
 
 ## 📌 Project Overview
 The CTL10 RPA project automates the processing of insurance premiums for TA Consultants and Resource Persons. It addresses key challenges such as inconsistent timing, manual effort, and delayed payments by streamlining the end-to-end workflow—from data extraction to journal voucher creation. The bot ensures timely and accurate recording of insurance premiums, improving operational efficiency and compliance.
